@@ -24,21 +24,6 @@
     <img alt="api rest" src="https://img.shields.io/badge/API%20REST-02569B?style=for-the-badge&logo=api&logoColor=white" /><br/>
 </div>
 
-<h3>📊 Estatísticas</h3>
-<div style="display: flex; justify-content: space-between; align-items: center;">
-    <img 
-        alt="GitHub Stats" 
-        height="200" 
-        style="padding-right: 20px;" 
-        src="https://github-readme-stats.vercel.app/api?username=Larissakich&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-    />
-    <img 
-        alt="Top Langs" 
-        height="200" 
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=larissakich&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-    />
-</div>
-
 ### Technologies I use in my daily life
 
 #### I currently work as a Java developer, with a strong passion for creating and improving systems. I work in the banking sector, developing robust APIs and implementing enhancements to existing software. Additionally, I have experience in front-end development, contributing to the creation of functional and intuitive interfaces. I am also dedicated to designing and developing software architectures, ensuring efficient and scalable solutions.
