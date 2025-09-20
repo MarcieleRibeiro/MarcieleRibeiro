@@ -1,7 +1,27 @@
-### Hello! I am Marciele :)
+# 👋 Hi, I’m Marciele Ribeiro
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marciele-ribeiro/)
+💻 **Java Backend Developer | Microservices | Financial Systems**
 
-### Technologies I use in my daily life
+🌍 São Paulo - Brazil  
+📧 marciele.mrs@hotmail.com  
+🔗 [LinkedIn](https://www.linkedin.com/in/marciele-ribeiro/)  
 
-#### I currently work as a Java developer, with a strong passion for creating and improving systems. I work in the banking sector, developing robust APIs and implementing enhancements to existing software. Additionally, I have experience in front-end development, contributing to the creation of functional and intuitive interfaces. I am also dedicated to designing and developing software architectures, ensuring efficient and scalable solutions.
+---
+
+## 🚀 About Me
+I’m a **Backend Java Developer** with experience in building **robust APIs, scalable microservices, and system integrations** in the **banking and financial industry**.  
+My focus is on **clean architectures, performance, and reliability**, delivering solutions that make an impact.  
+
+I work daily with **Java (8/11/17), Spring Boot, Apache Camel, and gRPC/REST APIs**, deploying solutions in **cloud environments like Azure and OpenShift**.  
+
+---
+
+## 🛠️ Tech Stack
+
+**Core:** Java 8/11/17, Spring Boot, Spring MVC, Apache Camel  
+**APIs:** REST, gRPC (HTTP/2), SOAP  
+**Architecture:** Microservices, Hexagonal, MVC  
+**Databases:** MySQL, CosmosDB, Redis  
+**Cloud & DevOps:** Azure, OpenShift, Docker, Kubernetes, Jenkins, GitHub Actions, GitLab CI/CD  
+**Testing:** JUnit, Mockito, Cucumber  
+**Monitoring & Quality:** SonarQube, Grafana, Postman  
